@@ -1,2 +1,2 @@
 # ssk_users
-SSK gys user mobile application
+SSK gym user mobile application
